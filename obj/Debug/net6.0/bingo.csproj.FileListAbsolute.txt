@@ -1,0 +1,15 @@
+C:\Users\agust\source\bingo\bin\Debug\net6.0\bingo.exe
+C:\Users\agust\source\bingo\bin\Debug\net6.0\bingo.deps.json
+C:\Users\agust\source\bingo\bin\Debug\net6.0\bingo.runtimeconfig.json
+C:\Users\agust\source\bingo\bin\Debug\net6.0\bingo.dll
+C:\Users\agust\source\bingo\bin\Debug\net6.0\bingo.pdb
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.csproj.AssemblyReference.cache
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.AssemblyInfoInputs.cache
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.AssemblyInfo.cs
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.csproj.CoreCompileInputs.cache
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.dll
+C:\Users\agust\source\bingo\obj\Debug\net6.0\refint\bingo.dll
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.pdb
+C:\Users\agust\source\bingo\obj\Debug\net6.0\bingo.genruntimeconfig.cache
+C:\Users\agust\source\bingo\obj\Debug\net6.0\ref\bingo.dll
